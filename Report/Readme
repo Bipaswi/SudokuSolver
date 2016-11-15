@@ -1,0 +1,9 @@
+Readme
+In order to run to program first go to the file directory.
+Once there use the make file in order to compile the programs
+
+For the checker run the program by
+./sudoku (problem file) (solution file)
+
+For the solver
+./SudokuSolver (problem file)
